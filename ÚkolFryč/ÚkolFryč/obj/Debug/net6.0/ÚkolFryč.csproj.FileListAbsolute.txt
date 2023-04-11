@@ -1,0 +1,15 @@
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\bin\Debug\net6.0\ÚkolFryč.exe
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\bin\Debug\net6.0\ÚkolFryč.deps.json
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\bin\Debug\net6.0\ÚkolFryč.runtimeconfig.json
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\bin\Debug\net6.0\ÚkolFryč.dll
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\bin\Debug\net6.0\ÚkolFryč.pdb
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.csproj.AssemblyReference.cache
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.AssemblyInfoInputs.cache
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.AssemblyInfo.cs
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.csproj.CoreCompileInputs.cache
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.dll
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\refint\ÚkolFryč.dll
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.pdb
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ÚkolFryč.genruntimeconfig.cache
+C:\Users\jakub.fryc\source\repos\ÚkolFryč\ÚkolFryč\obj\Debug\net6.0\ref\ÚkolFryč.dll
